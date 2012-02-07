@@ -1,0 +1,3 @@
+StoredProcedures.configure do
+
+end

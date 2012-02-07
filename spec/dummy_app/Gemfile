@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'rails', '3.2.1'
+
+gem 'sqlite3'
+
+gem 'stored_procedures', :path => File.expand_path('../../..', __FILE__)

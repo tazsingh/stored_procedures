@@ -1,0 +1,10 @@
+require 'rubygems'
+require 'bundler/setup'
+require 'rails'
+require 'mongo'
+require './spec/dummy_app/config/environment'
+require 'stored_procedures'
+
+StoredProcedures.mongo_connection = Mongo::Connection.new.db 'foo'
+l = StoredProcedures::Lookup.new
+l.find_procedures

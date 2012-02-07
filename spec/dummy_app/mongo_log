@@ -1,0 +1,11 @@
+Mon Feb  6 21:30:36 [initandlisten] MongoDB starting : pid=1800 port=27017 dbpath=/usr/local/var/mongodb 64-bit host=Tasveer-Singhs-MacBook-Pro.local
+Mon Feb  6 21:30:36 [initandlisten] db version v2.0.2, pdfile version 4.5
+Mon Feb  6 21:30:36 [initandlisten] git version: 514b122d308928517f5841888ceaa4246a7f18e3
+Mon Feb  6 21:30:36 [initandlisten] build info: Darwin erh2.10gen.cc 9.6.0 Darwin Kernel Version 9.6.0: Mon Nov 24 17:37:00 PST 2008; root:xnu-1228.9.59~1/RELEASE_I386 i386 BOOST_LIB_VERSION=1_40
+Mon Feb  6 21:30:36 [initandlisten] options: { bind_ip: "127.0.0.1", command: [ "run" ], config: "/usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf", dbpath: "/usr/local/var/mongodb", fork: true, logpath: "mongo_log" }
+Mon Feb  6 21:30:36 [initandlisten] journal dir=/usr/local/var/mongodb/journal
+Mon Feb  6 21:30:36 [initandlisten] recover : no journal files present, no recovery needed
+Mon Feb  6 21:30:36 [websvr] admin web console waiting for connections on port 28017
+Mon Feb  6 21:30:36 [initandlisten] waiting for connections on port 27017
+Mon Feb  6 21:30:39 [initandlisten] connection accepted from 127.0.0.1:50506 #1
+Mon Feb  6 21:31:36 [clientcursormon] mem (MB) res:20 virt:2630 mapped:80
